@@ -8183,7 +8183,7 @@ https://github.com/isaacs/github/issues/165
 -->
 
 API
-* [Blockspring](https://www.blockspring.com)
+* [coefficient.io](https://coefficient.io)
 
 Customer Relationship Management
 * [Salesforce](https://www.salesforce.com)
